@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  AnimalAdopt02
+
+  Created by Casper on 15/7/27.
+  Copyright (c) 2015年 tcapo. All rights reserved.
+*/
+//"api_ip" = "http://mobile.ihaoyu.com.tw/AmlApp/";
+//"api_ip" = "http://192.168.1.197/";
+//"api_ip" = "http://211.22.108.181/amlApp/";
+//"api_ip" = "http://www.pet.gov.taipei/AmlApp/";
+//"api_ip" = "http://163.29.36.110/amlApp/";
+
+"api_ip" = "https://tas.taipei/AmlApp/";
